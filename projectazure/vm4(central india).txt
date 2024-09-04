@@ -1,0 +1,5 @@
+ sudo apt-get update
+    2  git clone https://github.com/azcloudberg/azproject.git
+    3  ./vm2.sh
+    4  cd azproject
+    5  ./vm2.sh
